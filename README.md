@@ -15,12 +15,18 @@ After execution, it generates a file named "output.txt" that contains the correc
 You will find in the following link the source code in zip format.
  
  
-#networking 
+#networking
+
 #networkengineering
+
 #python
+
 #automation
+
 #networkautomation
-#devops
+
 #netdevops
+
 #GNS3
+
 #networkinfrastructure
