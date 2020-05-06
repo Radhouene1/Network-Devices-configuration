@@ -1,6 +1,7 @@
 # Network-Devices-configuration
 
 Here you find a demo video showing how my python script works. (on LinkedIn)
+https://www.linkedin.com/in/radhouene-belhadj-alaya-b61abb109/detail/recent-activity/shares/
 
 This script automates the task of configuring any cisco network device. Before you run it, you need tree text files as parameters : 
 
